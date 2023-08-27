@@ -27,7 +27,6 @@ const galleryLightbox = new SimpleLightbox('.gallery a', {
   captionDelay: 250,
 });
 galleryLightbox.on('show.simplelightbox');
-console.log(galleryItems);
 // Change code below this line
 
 console.log(galleryItems);
